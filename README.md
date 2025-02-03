@@ -1,2 +1,2 @@
 # TaskinnMotors
-## This repo about ny first professional project sercer-client metahdolgy with blazor component.
+## This repo about ny first professional project server-client metahdolgy with blazor component.
